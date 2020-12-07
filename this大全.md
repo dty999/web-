@@ -165,4 +165,4 @@ obj.method(fn);
 ~~~
 
 
-![](/images/.gif)
+![](https://github.com/dty999/web-Notes/blob/dev/images/shuge.gif)
