@@ -166,3 +166,4 @@ obj.method(fn);
 
 
 ![](https://github.com/dty999/web-Notes/blob/dev/images/shuge.gif)
+
